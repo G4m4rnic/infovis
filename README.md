@@ -5,7 +5,7 @@
 
 *https://G4m4rnic.github.com.io/infovis/blob/gh-pages/tableau1.html
 
-*https://G4m4rnic.github.com.io/infovis/blob/gh-pages/TFinal.html
+*https://G4m4rnic.github.com.io/infovis/blob/gh-pages/TF.html
 
 ## Datasets
 
