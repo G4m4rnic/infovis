@@ -3,7 +3,7 @@
 
 ## Trabajos
 
-*https://G4m4rnic.github.io/infovis/tableau1
+*https://G4m4rnic.github.io/infovis/tableau1.html
 
 *https://G4m4rnic.github.io/infovis/TFinal.html
 
