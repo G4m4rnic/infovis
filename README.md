@@ -5,7 +5,7 @@
 
 *https://G4m4rnic.github.io/infovis/tableau1.html
 
-*https://G4m4rnic.github.com.io/infovis/TF.html
+*https://G4m4rnic.github.io/infovis/TF.html
 
 ## Datasets
 
